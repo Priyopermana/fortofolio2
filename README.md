@@ -11,7 +11,7 @@
 <br>
 <font face="Bradley Hand ITC" color="Black" fontsize="4">"Biodata Diri"</font>
 <br>
-<img><img src = "D:\Kuliah\S2\semester 2\pemrograman web\FORTOFOLIO\priyo.jpg" width = "150 px" height = "150" > 
+<img><img src = "priyo.jpeg" width = "150 px" height = "150" > 
 </center>
 </h1>
 
